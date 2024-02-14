@@ -20,8 +20,8 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-flexbox-kDzXBBZEcB)
+- Live Site URL: [Live site Qr Code](https://jesschuck.github.io/frontendMentor-qrCode/)
 
 ## My process
 
